@@ -1,0 +1,1 @@
+2024-02-04 15:26:52,914 WARN [restartedMain] o.m.s.m.ClassPathMapperScanner [Logger.java:44] No MyBatis mapper was found in '[com.newcode.community]' package. Please check your configuration.
