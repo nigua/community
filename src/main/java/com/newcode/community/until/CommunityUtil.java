@@ -1,5 +1,8 @@
 package com.newcode.community.until;
 
+import org.apache.commons.lang3.StringUtils;
+import org.springframework.util.DigestUtils;
+
 import java.util.UUID;
 
 public class CommunityUtil {
@@ -10,7 +13,12 @@ public class CommunityUtil {
     }
 
     //MD5加密
-    public static String (){
-
+    //hello->abc123def567
+    //hello+3e4a8->abc123def456abc
+    public static String md5(String key){
+        if (StringUtils.isBlank(key)){
+            return null;
+        }
+        return DigestUtils.md5DigestAsHex(key.getBytes());
     }
 }
