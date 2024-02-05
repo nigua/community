@@ -216,3 +216,41 @@
 2024-02-05 19:56:21,283 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:524] Initializing Servlet 'dispatcherServlet'
 2024-02-05 19:56:21,286 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:546] Completed initialization in 3 ms
 2024-02-05 20:01:20,562 INFO [Thread-11] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService 'applicationTaskExecutor'
+2024-02-05 20:18:48,559 INFO [main] c.n.c.MapperTests [StartupInfoLogger.java:50] Starting MapperTests on zyf with PID 17332 (started by 章翼飞 in D:\findwork project\community)
+2024-02-05 20:18:48,561 INFO [main] c.n.c.MapperTests [SpringApplication.java:675] No active profile set, falling back to default profiles: default
+2024-02-05 20:18:49,976 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2024-02-05 20:18:50,108 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:61] Adding welcome page template: index
+2024-02-05 20:18:50,290 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService 'applicationTaskExecutor'
+2024-02-05 20:18:50,298 INFO [main] o.s.b.a.l.ConditionEvaluationReportLoggingListener [ConditionEvaluationReportLoggingListener.java:142] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2024-02-05 20:19:31,219 INFO [main] c.n.c.MapperTests [StartupInfoLogger.java:50] Starting MapperTests on zyf with PID 32060 (started by 章翼飞 in D:\findwork project\community)
+2024-02-05 20:19:31,221 INFO [main] c.n.c.MapperTests [SpringApplication.java:675] No active profile set, falling back to default profiles: default
+2024-02-05 20:19:32,592 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2024-02-05 20:19:32,713 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:61] Adding welcome page template: index
+2024-02-05 20:19:32,885 INFO [main] c.n.c.MapperTests [StartupInfoLogger.java:59] Started MapperTests in 1.867 seconds (JVM running for 2.462)
+2024-02-05 20:19:33,073 INFO [main] c.z.h.HikariDataSource [HikariDataSource.java:110] HikariPool-1 - Starting...
+2024-02-05 20:19:33,208 INFO [main] c.z.h.HikariDataSource [HikariDataSource.java:123] HikariPool-1 - Start completed.
+2024-02-05 20:19:33,286 INFO [Thread-3] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService 'applicationTaskExecutor'
+2024-02-05 20:19:33,287 INFO [Thread-3] c.z.h.HikariDataSource [HikariDataSource.java:350] HikariPool-1 - Shutdown initiated...
+2024-02-05 20:19:33,295 INFO [Thread-3] c.z.h.HikariDataSource [HikariDataSource.java:352] HikariPool-1 - Shutdown completed.
+2024-02-05 20:20:16,876 INFO [main] c.n.c.MapperTests [StartupInfoLogger.java:50] Starting MapperTests on zyf with PID 2768 (started by 章翼飞 in D:\findwork project\community)
+2024-02-05 20:20:16,877 INFO [main] c.n.c.MapperTests [SpringApplication.java:675] No active profile set, falling back to default profiles: default
+2024-02-05 20:20:18,289 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2024-02-05 20:20:18,413 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:61] Adding welcome page template: index
+2024-02-05 20:20:18,576 INFO [main] c.n.c.MapperTests [StartupInfoLogger.java:59] Started MapperTests in 1.91 seconds (JVM running for 2.492)
+2024-02-05 20:20:18,701 INFO [main] c.z.h.HikariDataSource [HikariDataSource.java:110] HikariPool-1 - Starting...
+2024-02-05 20:20:18,817 INFO [main] c.z.h.HikariDataSource [HikariDataSource.java:123] HikariPool-1 - Start completed.
+2024-02-05 20:20:18,870 INFO [Thread-3] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService 'applicationTaskExecutor'
+2024-02-05 20:20:18,871 INFO [Thread-3] c.z.h.HikariDataSource [HikariDataSource.java:350] HikariPool-1 - Shutdown initiated...
+2024-02-05 20:20:18,877 INFO [Thread-3] c.z.h.HikariDataSource [HikariDataSource.java:352] HikariPool-1 - Shutdown completed.
+2024-02-05 20:22:30,698 INFO [main] c.n.c.MapperTests [StartupInfoLogger.java:50] Starting MapperTests on zyf with PID 17360 (started by 章翼飞 in D:\findwork project\community)
+2024-02-05 20:22:30,700 INFO [main] c.n.c.MapperTests [SpringApplication.java:675] No active profile set, falling back to default profiles: default
+2024-02-05 20:22:32,139 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2024-02-05 20:22:32,267 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:61] Adding welcome page template: index
+2024-02-05 20:22:32,451 INFO [main] c.n.c.MapperTests [StartupInfoLogger.java:59] Started MapperTests in 1.969 seconds (JVM running for 2.595)
+2024-02-05 20:22:32,622 INFO [main] c.z.h.HikariDataSource [HikariDataSource.java:110] HikariPool-1 - Starting...
+2024-02-05 20:22:32,773 INFO [main] c.z.h.HikariDataSource [HikariDataSource.java:123] HikariPool-1 - Start completed.
+2024-02-05 20:22:32,862 INFO [Thread-3] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService 'applicationTaskExecutor'
+2024-02-05 20:22:32,863 INFO [Thread-3] c.z.h.HikariDataSource [HikariDataSource.java:350] HikariPool-1 - Shutdown initiated...
+2024-02-05 20:22:32,869 INFO [Thread-3] c.z.h.HikariDataSource [HikariDataSource.java:352] HikariPool-1 - Shutdown completed.
