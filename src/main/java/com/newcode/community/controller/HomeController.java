@@ -11,6 +11,7 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
+import javax.sql.rowset.spi.SyncResolver;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -46,5 +47,10 @@ public class HomeController {
         }
         model.addAttribute("discussPosts",discussPosts);
         return "/index";
+    }
+
+    @RequestMapping(path = "/error",method = RequestMethod.GET)
+    public String getErrorPage(){
+        return "/error/500";
     }
 }
