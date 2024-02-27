@@ -1,10 +1,13 @@
 package com.newcode.community;
 
 import com.newcode.community.service.AlphaService;
+import org.apache.kafka.common.protocol.types.Field;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.ContextConfiguration;
+
+import java.io.IOException;
 
 @SpringBootTest
 @ContextConfiguration(classes = CommunityApplication.class)
@@ -27,4 +30,8 @@ public class TransactionTests {
         System.out.println(obj);
 
     }
+
+
 }
+
+
